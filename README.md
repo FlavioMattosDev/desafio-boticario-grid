@@ -5,7 +5,7 @@ O programa desenvolve do grupo boticário nos apresentou o desafio inicial de cr
 ## 🚀 Demonstração
 
 ![image](assets/final-project1.png)
-[Clique aqui](linkaqui) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/desafio-boticario-grid/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
